@@ -1,0 +1,12 @@
+{
+  "name": "Peshku Thumbnails",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {},
+  "color_schemes": {},
+  "modifiers": {
+    "topic_thumbnail_sizes": [[600, 600]]
+  },
+  "minimum_discourse_version": "2.5.0.beta4"
+}

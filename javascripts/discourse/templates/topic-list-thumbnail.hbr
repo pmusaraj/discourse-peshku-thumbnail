@@ -1,0 +1,5 @@
+{{#if view.hasThumbnail}}
+<a href="{{view.url}}" class="topic-list-thumbnail">
+  <img class="main-thumbnail" src="{{view.fallbackSrc}}" loading="lazy"/>
+</a>
+{{/if}}
